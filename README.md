@@ -1,2 +1,0 @@
-# componentAlertReact
-Created with CodeSandbox
